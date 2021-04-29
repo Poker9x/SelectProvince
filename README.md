@@ -1,7 +1,7 @@
 # Script JavaScript Chọn Tỉnh Thành Việt Nam
 
 
-```
+```HTML
 <!DOCTYPE html>
 <html>
 
@@ -26,3 +26,4 @@
 
 </html>
 ```
+demo : https://poker9x.github.io/SelectProvince/
